@@ -1,4 +1,4 @@
-<p align="left">Hi 👋, I'm Mina! I'm currently devops/cloud learner and passionate about it'</p>
+<p align="left">Hi 👋, I'm Mina! I'm currently devops/cloud learner and passionate about it. </p>
 
 ###
 
@@ -25,6 +25,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/minaunal/minaunal/output/snake.svg" alt="Snake animation" />
+🌱 I’m currently learning Terraform, Kubernetes and OpenShift.
+
+###
+
+📫 How to reach me -> https://www.linkedin.com/in/mina-%C3%BCnal-967279232/
 
 ###
