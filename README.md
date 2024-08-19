@@ -29,6 +29,6 @@
 
 ###
 
-📫 How to reach me -> https://www.linkedin.com/in/mina-%C3%BCnal-967279232/
+📫 How to reach me -> https://www.linkedin.com/in/minaunall/
 
 ###
